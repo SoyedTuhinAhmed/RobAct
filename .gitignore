@@ -1,2 +1,9 @@
-/data/abommana/Soyed/RobAct/CIFAR10/data
-/data/abommana/Soyed/RobAct/MNIST/data
+# Ignore all data directories
+/data/
+
+# Ignore all pycache and temporary files
+__pycache__/
+*.pyc
+*.pth
+*.png
+*.tar.gz
