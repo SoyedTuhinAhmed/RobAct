@@ -2,8 +2,4 @@
 /data/
 
 # Ignore all pycache and temporary files
-__pycache__/
-*.pyc
-*.pth
-*.png
-*.tar.gz
+*/__pycache__/
